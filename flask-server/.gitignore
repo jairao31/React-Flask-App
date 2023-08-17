@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development configuration
+instance/
+.env
+
+# Compiled Python files
+*.pyc
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+ENV/
+venv_bak/
+
+# Dependencies
+lib/
+libs/
+*.egg-info/
+dist/
+build/
+wsgi/
+
+# Site folder
+site/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Compiled web assets
+static/build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
